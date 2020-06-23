@@ -1,0 +1,105 @@
+
+
+body {
+	background-color: #f2e6f0 /*#f2e3c1*/; /*#CDE5CC*/
+	max-width: 100%;
+
+
+
+}
+
+h1 {
+	
+	text-align: left; 
+	-webkit-transform: skewX(30deg);
+	font-family: 'Jim Nightshade', cursive;
+	font-size: 40px;
+	top: 5px;
+
+ /* -webkit-transform: skewX(50deg);
+  position: */
+
+}
+
+
+
+
+#email { 
+	 -webkit-transform: skewX(30deg);
+	 position: -webkit-sticky;
+	position: sticky;
+
+
+}
+#location { 
+	 -webkit-transform: skewX(30deg);
+	 position: -webkit-sticky;
+	position: sticky;
+
+}
+a { 
+	 -webkit-transform: skewX(50deg);
+	 text-decoration: none;
+	 color: black;
+}
+a:hover {
+	font-size:105%;
+	
+
+
+}
+
+#selectedwork {
+	text-align: center;
+	position: -webkit-sticky;
+	position: sticky;
+	top: 20px;
+}
+
+
+.bfa  {
+
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	text-decoration: none;
+	display: inline-block;
+	background-color: #f2e6f0 /*#f2e3c1*/;
+	
+}
+
+#stickybutton {
+	position: -webkit-sticky;
+	position: sticky;
+	top: 20px;
+	
+}
+
+#myDIV {
+	display: none;
+}
+
+
+img {
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 250px;
+	margin-top: 50px;
+	width: 50%;
+	display: block;
+	box-shadow: 20px 20px 10px grey;
+	
+}
+
+iframe {
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 250px;
+	margin-top: 50px;
+	width: 50%;
+	
+	display: block;
+	box-shadow: 20px 20px 10px grey;
+}
+
+}
